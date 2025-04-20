@@ -12,6 +12,8 @@ I’ll let you know as soon as it's ready for your review.
 This guide provides a detailed overview of general **federal and VA benefits** available to U.S. veterans, as well as resources for spouses, dependents, and survivors. It is organized by benefit area, with information on **eligibility, application procedures, official resources, and community tips**. (State-specific benefits are **not** included.)
 
 ## Table of Contents
+---
+---
 
 - [VA Health Care](#va-health-care)  
 - [VA Disability Compensation and Ratings](#va-disability-compensation-and-ratings)  
