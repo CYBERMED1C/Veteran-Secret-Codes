@@ -26,8 +26,11 @@ This guide provides a detailed overview of general **federal and VA benefits** a
 - [Military and Veteran Discounts](#military-and-veteran-discounts)  
 - [Nonprofit & Community-Based Resources](#nonprofit--community-based-resources)  
 - [Tools for Navigating VA Processes](#tools-for-navigating-va-processes)  
+<br/>
 
 ---
+
+<br/>
 
 ## VA Health Care
 
@@ -147,6 +150,7 @@ When applying, be prepared to provide your **discharge documentation (DD214)**, 
 <br/>
 
 ---
+
 <br/>
 
 ## VA Appeals Process
@@ -186,8 +190,11 @@ Under AMA, you can **pursue these options simultaneously for different issues** 
 - **VA Form 10182 (Board Appeal)** – use this for appealing to the Board (Notice of Disagreement in AMA).
 - **Board of Veterans’ Appeals** – official site with info on the Board process, docket statistics, and a tool to check appeal status.
 - **CAVC** – information on how to appeal to the Court, plus a list of practitioners (many vets get a lawyer at this stage; organizations like the Veteran Consortium Pro Bono Program may assist qualified vets for free at the Court stage).
+<br/>
 
 ---
+
+<br/>
 
 ## Housing Benefits (Home Loans and Housing Grants)
 
@@ -263,8 +270,11 @@ Additionally, some states and cities have special veteran homelessness initiativ
 - **Native American Direct Loan:** [VA NADL Program] – Info on the direct loan program for Native American vets.  
 - **Adapted Housing Grants:** [VA Housing Grants for Disabled Veterans] – How to apply for SAH/SHA (use VA Form 26-4555) and current grant amounts ([Disability Housing Grants For Veterans | Veterans Affairs](https://www.va.gov/housing-assistance/disability-housing-grants/#:~:text=,connected%20disability)) ([Disability Housing Grants For Veterans | Veterans Affairs](https://www.va.gov/housing-assistance/disability-housing-grants/#:~:text=How%20much%20funding%20does%20an,SHA%20grant%20offer)).  
 - **HUD-VASH:** [VA Homeless Programs – HUD-VASH] – Info for homeless veterans seeking housing.  
+<br/>
 
 ---
+
+<br/>
 
 ## Education Benefits (GI Bill & VR&E)
 
@@ -364,8 +374,11 @@ If the plan involves **education or training**, VR&E may cover full tuition, fee
 - **How to Apply:** [Apply for VR&E] – online application instructions ([How To Apply For Veteran Readiness And Employment - VA.gov](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/#:~:text=How%20To%20Apply%20For%20Veteran,session%20at%20your%20nearest)).  
 - **Fact Sheets:** [VA VR&E Fact Sheet] – details on subsistence rates, tracks, etc.  
 - **Veteran Success Stories:** (VA often shares stories of vets who used VR&E to become employed in various fields, which can inspire or give an idea of possibilities).
+<br/>
 
 ---
+
+<br/>
 
 ## Employment and Job Placement Resources
 
@@ -442,8 +455,12 @@ And importantly, **utilize your local resources**: if you’re near a military b
 - **Entrepreneurship:** [SBA Veterans Program] – overview of SBA resources for vets.  
 - **ACP Mentorship:** [American Corporate Partners] – sign up for a mentor in your field.  
 - **Onward to Opportunity:** [IVMF O2O] – info on free career training courses for vets/spouses.
+<br/>
 
 ---
+
+<br/>
+
 
 ## Mental Health Support and Treatment
 
@@ -508,8 +525,11 @@ Beyond the VA, numerous organizations support veterans:
 - **Cohen Veterans Network:** [Cohen Veterans Clinics] – check if there’s a clinic near you.
 
 Above all, please remember: **You are not alone, and reaching out for help is a sign of strength, not weakness.** Whether it’s through VA or a buddy or a hotline, there are people who care and want to help veterans get through the tough times. As the saying goes, “It’s okay not to be okay – but don’t stay that way, reach out.”
+<br/>
 
 ---
+
+<br/>
 
 ## Survivor and Dependent Benefits
 
@@ -630,8 +650,11 @@ Veterans and their families have access to certain VA life insurance programs:
 - **CHAMPVA – VA:** [CHAMPVA Program] – VA resource explaining who is eligible (spouses/children of 100% vets, etc.) ([The 2025 Benefits List for Veterans and Dependents | Hill & Ponton, P.A.](https://www.hillandponton.com/additional-benefits-for-100-percent-disabled-veterans/#:~:text=CHAMPVA%20is%20available%20to%20dependents,any%20of%20the%20following%20criteria)) ([The 2025 Benefits List for Veterans and Dependents | Hill & Ponton, P.A.](https://www.hillandponton.com/additional-benefits-for-100-percent-disabled-veterans/#:~:text=,are%20not%20eligible%20for%20TRICARE)).
 - **DoD ID Card Reference:** [Military ID Card for 100% Disabled Veterans] – (on Military Onesource or VA site explaining commissary access extension).
 - **Veterans’ Families Benefits Overview:** [VA Survivors Benefits Overview] – a VA pamphlet that covers DIC, education, home loan (yes, some surviving spouses can use the VA home loan benefit), etc.
+<br/>
 
 ---
+
+<br/>
 
 ## Burial and Memorial Benefits
 
@@ -732,8 +755,12 @@ If a veteran died due to service-connected causes, VA will pay for transportatio
 - **Headstones and Markers:** [VA Headstones Markers](https://www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/) – how to apply.
 - **Burial Benefits FAQ:** [VA Burial FAQ PDF] – often helpful in Q&A format ([[PDF] VA Burial Benefits FAQ - Department Human Assistance](https://ha.saccounty.gov/benefits/VeteransServices/FAQ%20docs/VA%20Burial&Burial%20Allowance%20FAQ.pdf#:~:text=,any%20other%20organization%2C%20like)) ([Burial Benefits - Compensation](https://www.benefits.va.gov/compensation/claims-special-burial.asp#:~:text=Burial%20Benefits%20,is%20not%20service%20related%2C)).
 - **Arlington Eligibility:** [Arlington Cemetery Eligibility] – for those curious about that special case ([Veteran Burial Benefits Explained: What You Need to Know](https://www.dav.org/get-help-now/veteran-topics-resources/memorial-death-benefits/#:~:text=Arlington%20National%20Cemetery%20is%20administered,than%20at%20VA%20national%20cemeteries)) ([Veteran Burial Benefits Explained: What You Need to Know](https://www.dav.org/get-help-now/veteran-topics-resources/memorial-death-benefits/#:~:text=Eligibility%20for%20interment%20in%20Arlington%E2%80%99s,ground%20burial%2C%20as%20well%20as)).
+<br/>
 
 ---
+
+<br/>
+
 
 ## Free and Discounted Services for Veterans
 
@@ -778,8 +805,12 @@ In addition to the core VA benefits, there are numerous **free or discounted ser
 - **Home Depot Military Discount:** [Home Depot FAQ] – shows 10% off with annual cap ([Military Discount & Veterans Deals - The Home Depot](https://www.homedepot.com/c/military#:~:text=Military%20Discount%20%26%20Veterans%20Deals,maximum%20yearly%20discount%20of%20%24400)).
 - **VA News on discounts:** [VA News: Year-round discounts] – an article that often lists various discounts for vets ([Veteran discounts available year round - VA News](https://news.va.gov/85765/veteran-discounts-available-year-round/#:~:text=VICIS%20Special%20pricing%20available%20on,their%20website%20for%20more%20details)) ([Veteran discounts available year round - VA News](https://news.va.gov/85765/veteran-discounts-available-year-round/#:~:text=Allegiant%20Air%20Offers%20no%20charge,one%20pet%20in%20the%20cabin)).
 - **ID.me for Vets:** [VA.gov – Veteran ID Card] – to get the official VA ID Card (which is widely accepted to prove status at stores).
+<br/>
 
 ---
+
+<br/>
+
 
 ## Military and Veteran Discounts
 
@@ -828,8 +859,12 @@ In addition to the free services and benefits above, **many businesses offer ong
 - **Military.com Discount List:** [Military.com Discounts] – lists by category.
 - **VA News (VetResources):** They often include sections on available discounts (like tech or travel offers) ([Veteran discounts available year round - VA News](https://news.va.gov/85765/veteran-discounts-available-year-round/#:~:text=VICIS%20Special%20pricing%20available%20on,their%20website%20for%20more%20details)) ([Veteran discounts available year round - VA News](https://news.va.gov/85765/veteran-discounts-available-year-round/#:~:text=American%20Forces%20Travel%20Powered%20by,MWR%29%20patrons)).
 - **Retailer policy pages:** (Lowe’s ([Everyday Military Discount - Lowe's](https://www.lowes.com/l/about/honor-our-military#:~:text=Lowe%27s%20offers%20a%2010,currently%20serving%20our%20country)), Home Depot ([Military Discount & Veterans Deals - The Home Depot](https://www.homedepot.com/c/military#:~:text=Military%20Discount%20%26%20Veterans%20Deals,maximum%20yearly%20discount%20of%20%24400)), etc. as above).
+<br/>
 
 ---
+
+<br/>
+
 
 ## Nonprofit & Community-Based Resources
 
@@ -913,8 +948,12 @@ The internet has allowed veterans to share information and support each other in
 - **VA Resource Directory (NRD):** The National Resource Directory (NRD) is a database of thousands of vetted resources for military/veterans (maintained by VA/DOD).
 - **Local example:** A hypothetical: “Texas Veterans Network” or “NVF.org” (National Veterans Foundation) which has a hotline for resources.
 - **Statistics:** According to a VA report, there are over 45,000 veteran-centric nonprofits in the US. While not all are active or effective, that number highlights how much community support is out there – finding the right ones is key.
+<br/>
 
 ---
+
+<br/>
+
 
 ## Tools for Navigating VA Processes
 
