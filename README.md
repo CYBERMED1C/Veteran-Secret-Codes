@@ -12,9 +12,6 @@ I’ll let you know as soon as it's ready for your review.
 This guide provides a detailed overview of general **federal and VA benefits** available to U.S. veterans, as well as resources for spouses, dependents, and survivors. It is organized by benefit area, with information on **eligibility, application procedures, official resources, and community tips**. (State-specific benefits are **not** included.)
 
 ## Table of Contents
----
----
-<br/>
 
 - [VA Health Care](#va-health-care)  
 - [VA Disability Compensation and Ratings](#va-disability-compensation-and-ratings)  
@@ -83,8 +80,9 @@ When applying, be prepared to provide your **discharge documentation (DD214)**, 
 - **VA Health Benefits Eligibility:** [VA Health Care Eligibility Criteria] – Official detailed criteria ([Eligibility For VA Health Care | Veterans Affairs](https://www.va.gov/health-care/eligibility/#:~:text=You%20may%20be%C2%A0eligible%20for%20VA,didn%E2%80%99t%20receive%20a%20dishonorable%20discharge)) ([Eligibility For VA Health Care | Veterans Affairs](https://www.va.gov/health-care/eligibility/#:~:text=At%20least%20one%20of%20these,must%20be%20true)).  
 - **VA Healthcare Benefits Overview:** [VA Health Care – Benefits Guide] – Summary of services covered, copays, and special programs.  
 - **Caregiver Support:** [VA Caregiver Support Program] – Information on PCAFC and other resources for caregivers ([How To Apply For VA Health Care | Veterans Affairs](https://www.va.gov/health-care/how-to-apply/#:~:text=You%20may%20qualify%20for%20VA,Comprehensive%20Assistance%20for%20Family%20Caregivers)).
-
+<br/>
 ---
+<br/>
 
 ## VA Disability Compensation and Ratings
 
@@ -144,8 +142,10 @@ When applying, be prepared to provide your **discharge documentation (DD214)**, 
 - **Understanding VA Ratings:** [VA Guide on Rating Decisions] – Info on how VA assigns ratings and effective dates ([VA Disability Compensation | Veterans Affairs](https://www.va.gov/disability/#:~:text=,after%20you%20get%20your%20rating)).  
 - **Appeals (Decision Reviews):** [VA Decision Review Options] – VA’s explanation of Supplemental Claim, Higher-Level Review, and Board Appeal processes ([VA Decision Reviews And Appeals | Veterans Affairs](https://www.va.gov/decision-reviews/#:~:text=disagree%20with%20a%20VA%20benefit,can%20request%20a%20Clinical%20Appeal)) ([VA Decision Reviews And Appeals | Veterans Affairs](https://www.va.gov/decision-reviews/#:~:text=,we%20reviewed%20your%20case%20before)).  
 - **VSO Search Tool:** [Find VA-Accredited Representatives] – to get free help filing claims (DAV, VFW, AmLegion, etc. are all accredited and eager to help ([VA Disability Compensation | Veterans Affairs](https://www.va.gov/disability/#:~:text=what%20to%20do%20after%20you,get%20your%20rating))).
+<br/>
 
 ---
+<br/>
 
 ## VA Appeals Process
 
