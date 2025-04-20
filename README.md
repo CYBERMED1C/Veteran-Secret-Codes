@@ -81,7 +81,9 @@ When applying, be prepared to provide your **discharge documentation (DD214)**, 
 - **VA Healthcare Benefits Overview:** [VA Health Care – Benefits Guide] – Summary of services covered, copays, and special programs.  
 - **Caregiver Support:** [VA Caregiver Support Program] – Information on PCAFC and other resources for caregivers ([How To Apply For VA Health Care | Veterans Affairs](https://www.va.gov/health-care/how-to-apply/#:~:text=You%20may%20qualify%20for%20VA,Comprehensive%20Assistance%20for%20Family%20Caregivers)).
 <br/>
+
 ---
+
 <br/>
 
 ## VA Disability Compensation and Ratings
