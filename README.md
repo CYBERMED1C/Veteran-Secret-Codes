@@ -14,6 +14,7 @@ This guide provides a detailed overview of general **federal and VA benefits** a
 ## Table of Contents
 ---
 ---
+<br/>
 
 - [VA Health Care](#va-health-care)  
 - [VA Disability Compensation and Ratings](#va-disability-compensation-and-ratings)  
