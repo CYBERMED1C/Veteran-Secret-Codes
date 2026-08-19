@@ -1,4 +1,4 @@
-<img width="1024" height="1536" alt="0695c51c-64f4-4536-b49a-db5685b136fe" src="https://github.com/user-attachments/assets/e9f09974-3033-48f9-b2fa-5645ddda1e53" />
+![image](https://github.com/user-attachments/assets/e9f09974-3033-48f9-b2fa-5645ddda1e53)
 
 # Veteran Benefit Cheat Codes 2026
 
